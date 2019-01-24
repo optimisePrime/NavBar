@@ -2,5 +2,4 @@ node_modules/
 public/app.bundle.js
 styles.css
 .DS_Store
-server/db/postgres/generate_data_post
 server/db/cassandra/generate_data_cass
